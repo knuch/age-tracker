@@ -36,6 +36,18 @@ const config = {
       month: '0',
       day: '20'
     },
+    {
+      name: 'Abigaëlle',
+      year: '2018',
+      month: '4',
+      day: '18'
+    },
+    {
+      name: 'Léanne',
+      year: '2017',
+      month: '6',
+      day: '20'
+    },
   ]
 };
 export default config;
